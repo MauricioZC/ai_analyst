@@ -1,8 +1,6 @@
 import requests
 import pandas as pd
 
-from edgar import facts_DF, get_filtered_filings
-
 class Stock:
     def __init__(self, ticker):
         if not ticker:
