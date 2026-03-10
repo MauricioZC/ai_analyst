@@ -56,7 +56,7 @@ class Stock:
         accession_nums = self.get_filtered_filings(
             ten_k=True, just_accession_numbers=True
         )
-        df, label_dict = self.get_facts_gaap(self.cik, self.headers)
+        df, label_dict = self.get_facts_gaap()
         ten_k = df[df["accn"].isin(accession_nums)]
         selected_ends = pd.to_datetime(accession_nums.index)
         ten_k = ten_k[ten_k.index.isin(selected_ends)]
