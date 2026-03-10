@@ -1,6 +1,8 @@
 import requests
 import pandas as pd
 
+# https://chatgpt.com/share/69b05a3a-13f0-800a-ad01-809ddcbe8b18
+
 class Stock:
     def __init__(self, ticker):
         if not ticker:
@@ -29,7 +31,7 @@ class Stock:
             self._submission_data = self._get_submission_data(only_filings_df=only_filings_df)
         return self._submission_data
 
-    def get_filtered_filings(self, ten_k=True, ten_q=False, just_accession_numbers=False):
+    def get_filtered_filings(self, ten_k=True, just_accession_numbers=False):
         company_filings_df = self.get_submission_data(only_filings_df=True)
         if ten_k:
             df = company_filings_df[company_filings_df["form"] == "10-K"]
@@ -52,6 +54,7 @@ class Stock:
             self._facts_df_gaap, self._label_dict_gaap = self._get_facts_gaap()
         return self._facts_df_gaap, self._label_dict_gaap
         
+    # Fix
     def get_annual_facts(self):
         accession_nums = self.get_filtered_filings(
             ten_k=True, just_accession_numbers=True
@@ -61,9 +64,10 @@ class Stock:
         selected_ends = pd.to_datetime(accession_nums.index)
         ten_k = ten_k[ten_k.index.isin(selected_ends)]
         pivot = ten_k.pivot_table(values="val", columns="fact", index="end")
-        pivot.rename(columns=label_dict, inplace=True)
+        #pivot.rename(columns=label_dict, inplace=True)
         return pivot.T
     
+    # Fix
     def get_quarterly_facts(self):
         accession_nums = self.get_filtered_filings(
             ten_k=False, just_accession_numbers=True
@@ -74,7 +78,7 @@ class Stock:
         ten_q = ten_q[ten_q.index.isin(selected_ends)].reset_index(drop=False)
         ten_q = ten_q.drop_duplicates(subset=["fact", "end"], keep="last")
         pivot = ten_q.pivot_table(values="val", columns="fact", index="end")
-        pivot.rename(columns=label_dict, inplace=True)
+        #pivot.rename(columns=label_dict, inplace=True)
         return pivot.T
 
     ##################################################################################
@@ -88,6 +92,7 @@ class Stock:
         company_facts = requests.get(url, headers=self.headers).json()
         return company_facts
 
+    # Fix
     def _get_facts_gaap(self):
         facts = self.get_facts()
         us_gaap_data = facts["facts"]["us-gaap"]
@@ -114,8 +119,9 @@ class Stock:
             return pd.DataFrame(company_json["filings"]["recent"])
         return company_json
 
-
-
+    def _status_code_check(self, response):
+        if response.status_code != 200:
+            raise ValueError(f"Request failed with status code {response.status_code}")
 
 
 
