@@ -1,0 +1,3803 @@
+{
+  "AccountsPayableCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "AccountsPayable",
+    "sign": 1
+  },
+  "AccountsReceivableNet": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "AccountsReceivable",
+    "sign": 1
+  },
+  "AccountsReceivableNetCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "AccountsReceivable",
+    "sign": 1
+  },
+  "AccountsReceivableNetNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "AccountsReceivable",
+    "sign": 1
+  },
+  "AccruedIncomeTaxesCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "AccruedIncomeTaxes",
+    "sign": 1
+  },
+  "AccruedIncomeTaxesNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "AccruedIncomeTaxes",
+    "sign": 1
+  },
+  "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "AccumulatedDepreciation",
+    "sign": -1
+  },
+  "AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustment",
+    "sign": 1
+  },
+  "AccumulatedOtherComprehensiveIncomeLossCumulativeChangesInNetGainLossFromCashFlowHedgesEffectNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "AccumulatedOtherComprehensiveIncomeLossCumulativeChangesInNetGainLossFromCashFlowHedgesEffect",
+    "sign": 1
+  },
+  "AccumulatedOtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "AccumulatedOtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustment",
+    "sign": 1
+  },
+  "AccumulatedOtherComprehensiveIncomeLossNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "AccumulatedOtherComprehensiveIncomeLoss",
+    "sign": 1
+  },
+  "AcquiredFiniteLivedIntangibleAssetAmount": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "AcquiredFiniteLivedIntangibleAsset",
+    "sign": 1
+  },
+  "AcquiredFiniteLivedIntangibleAssetWeightedAverageUsefulLife": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "",
+    "sign": ""
+  },
+  "AdvertisingExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "AdvertisingExpense",
+    "sign": -1
+  },
+  "AllocatedShareBasedCompensationExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "AllocatedShareBasedCompensationExpense",
+    "sign": -1
+  },
+  "AllowanceForDoubtfulAccountsReceivableCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "AllowanceForDoubtfulAccountsReceivable",
+    "sign": -1
+  },
+  "AmortizationOfIntangibleAssets": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "AmortizationOfIntangibleAssets",
+    "sign": 1
+  },
+  "AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShare",
+    "sign": 1
+  },
+  "AssetImpairmentCharges": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "AssetImpairmentCharges",
+    "sign": -1
+  },
+  "Assets": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "Assets",
+    "sign": 1
+  },
+  "AssetsCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "Assets",
+    "sign": 1
+  },
+  "AssetsFairValueDisclosureRecurring": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleDebtSecuritiesAmortizedCostBasis": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "AvailableForSaleDebtSecuritiesAmortizedCostBasis",
+    "sign": 1
+  },
+  "AvailableForSaleSecurities": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "AvailableForSaleSecurities",
+    "sign": 1
+  },
+  "AvailableForSaleSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "AvailableForSaleSecuritiesAccumulatedGrossUnrealizedGainBeforeTax",
+    "sign": 1
+  },
+  "AvailableForSaleSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "AvailableForSaleSecuritiesAccumulatedGrossUnrealizedLossBeforeTax",
+    "sign": 1
+  },
+  "AvailableForSaleSecuritiesAmortizedCost": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "AvailableForSaleSecuritiesAmortizedCost",
+    "sign": 1
+  },
+  "AvailableForSaleSecuritiesContinuousUnrealizedLossPosition12MonthsOrLongerAccumulatedLoss": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesContinuousUnrealizedLossPositionAccumulatedLoss": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesContinuousUnrealizedLossPositionFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesContinuousUnrealizedLossPositionLessThan12MonthsAccumulatedLoss": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesContinuousUnrealizedLossPositionLessThanTwelveMonthsFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesContinuousUnrealizedLossPositionTwelveMonthsOrLongerFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "AvailableForSaleSecurities",
+    "sign": 1
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesAfterFiveThroughTenYearsAmortizedCost": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesAfterFiveThroughTenYearsFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesAfterOneThroughFiveYearsAmortizedCost": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesAfterOneThroughFiveYearsFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesAfterTenYearsAmortizedCost": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesAfterTenYearsFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesAmortizedCost": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesNextRollingTwelveMonthsAmortizedCostBasis": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesNextRollingTwelveMonthsFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesRollingAfterYearTenAmortizedCostBasis": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesRollingAfterYearTenFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesRollingYearSixThroughTenAmortizedCostBasis": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesRollingYearSixThroughTenFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesRollingYearTwoThroughFiveAmortizedCostBasis": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesRollingYearTwoThroughFiveFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesWithinOneYearAmortizedCost": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtMaturitiesWithinOneYearFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableForSaleSecuritiesDebtSecurities": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "AvailableForSaleSecuritiesDebtSecurities",
+    "sign": 1
+  },
+  "AvailableForSaleSecuritiesGrossRealizedGains": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "AvailableForSaleSecuritiesGrossRealizedGains",
+    "sign": 1
+  },
+  "AvailableForSaleSecuritiesGrossRealizedLosses": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "AvailableForSaleSecuritiesGrossRealizedLosses",
+    "sign": 1
+  },
+  "AvailableForSaleSecuritiesGrossUnrealizedLosses1": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "AvailableForSaleSecuritiesGrossUnrealizedLosses",
+    "sign": 1
+  },
+  "AvailableforsaleSecuritiesContinuousUnrealizedLossPosition12MonthsOrLongerAggregateLosses1": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableforsaleSecuritiesContinuousUnrealizedLossPosition12MonthsOrLongerAggregateLosses2": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableforsaleSecuritiesContinuousUnrealizedLossPositionAggregateLosses1": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableforsaleSecuritiesContinuousUnrealizedLossPositionAggregateLosses2": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableforsaleSecuritiesContinuousUnrealizedLossPositionLessThan12MonthsAggregateLosses1": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableforsaleSecuritiesContinuousUnrealizedLossPositionLessThan12MonthsAggregateLosses2": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "AvailableforsaleSecuritiesGrossUnrealizedGain": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "AvailableforsaleSecuritiesGrossUnrealizedGain",
+    "sign": 1
+  },
+  "BuildingsAndImprovementsGross": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "BuildingsAndImprovements",
+    "sign": ""
+  },
+  "BusinessAcquisitionCostOfAcquiredEntityCashPaid": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "BusinessAcquisitionCostOfAcquiredEntityCashPaid",
+    "sign": -1
+  },
+  "BusinessAcquisitionProFormaEarningsPerShareDiluted": {
+    "statement": "IncomeStatement",
+    "section": "Profitability",
+    "subsection": "Metrics",
+    "canonical": "BusinessAcquisitionProFormaEarningsPerShareDiluted",
+    "sign": 1
+  },
+  "BusinessAcquisitionsProFormaNetIncomeLoss": {
+    "statement": "IncomeStatement",
+    "section": "Profitability",
+    "subsection": "Metrics",
+    "canonical": "BusinessAcquisitionsProFormaNetIncomeLoss",
+    "sign": 1
+  },
+  "BusinessAcquisitionsProFormaRevenue": {
+    "statement": "IncomeStatement",
+    "section": "Revenue",
+    "subsection": "OperatingRevenue",
+    "canonical": "BusinessAcquisitionsProFormaRevenue",
+    "sign": 1
+  },
+  "BusinessCombinationIntegrationRelatedCosts": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "BusinessCombinationIntegrationRelatedCosts",
+    "sign": ""
+  },
+  "BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles",
+    "sign": 1
+  },
+  "CapitalizedComputerSoftwareAmortization": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "CapitalizedComputerSoftwareAmortization",
+    "sign": -1
+  },
+  "CapitalizedComputerSoftwareAmortization1": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "CapitalizedComputerSoftwareAmortization",
+    "sign": -1
+  },
+  "CapitalLeasedAssetsGross": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "CapitalLeasedAssets",
+    "sign": 1
+  },
+  "CapitalLeaseObligationsIncurred": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "CapitalLeaseObligationsIncurred",
+    "sign": ""
+  },
+  "CapitalLeasesFutureMinimumPaymentsDue": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "CapitalLeasesFutureMinimumPaymentsDueCurrent": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "CapitalLeasesFutureMinimumPaymentsDueInFiveYears": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "CapitalLeasesFutureMinimumPaymentsDueInFourYears": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "CapitalLeasesFutureMinimumPaymentsDueInThreeYears": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "CapitalLeasesFutureMinimumPaymentsDueInTwoYears": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "CapitalLeasesFutureMinimumPaymentsDueThereafter": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "CapitalLeasesFutureMinimumPaymentsInterestIncludedInPayments": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "CapitalLeasesFutureMinimumPaymentsRemainderOfFiscalYear": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "CapitalLeasesLesseeBalanceSheetAssetsByMajorClassAccumulatedDeprecation": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "CapitalLeasesLesseeBalanceSheetAssetsByMajorClassAccumulatedDeprecation",
+    "sign": 1
+  },
+  "CashAndCashEquivalentsAtCarryingValue": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "CashAndCashEquivalents",
+    "sign": 1
+  },
+  "CashAndCashEquivalentsPeriodIncreaseDecrease": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "CashAndCashEquivalentsPeriodIncreaseDecrease",
+    "sign": 1
+  },
+  "CashCashEquivalentsAndShortTermInvestments": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "CashAndShortTermInvestments",
+    "sign": 1
+  },
+  "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "CashAndRestrictedCash",
+    "sign": 1
+  },
+  "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+    "sign": ""
+  },
+  "CommercialPaper": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "CommercialPaper",
+    "sign": 1
+  },
+  "CommonStockDividendsPerShareDeclared": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "CommonStockDividendsPerShareDeclared",
+    "sign": 1
+  },
+  "CommonStockIncludingAdditionalPaidInCapital": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "CommonStockIncludingAdditionalPaidInCapital",
+    "sign": 1
+  },
+  "CommonStockSharesAuthorized": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "",
+    "sign": ""
+  },
+  "CommonStockSharesOutstanding": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "",
+    "sign": ""
+  },
+  "CommonStocksIncludingAdditionalPaidInCapital": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "CommonStocksIncludingAdditionalPaidInCapital",
+    "sign": 1
+  },
+  "ComprehensiveIncomeNetOfTax": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "ComprehensiveIncome",
+    "sign": ""
+  },
+  "ContractWithCustomerLiability": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "ContractLiability",
+    "sign": 1
+  },
+  "ContractWithCustomerLiabilityCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "ContractLiability",
+    "sign": 1
+  },
+  "ContractWithCustomerLiabilityNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "ContractLiability",
+    "sign": 1
+  },
+  "ContractWithCustomerLiabilityRevenueRecognized": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "ContractWithCustomerLiabilityRevenueRecognized",
+    "sign": 1
+  },
+  "ConvertibleDebtCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "ConvertibleDebt",
+    "sign": 1
+  },
+  "CostMethodInvestments": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "CostMethodInvestments",
+    "sign": 1
+  },
+  "CostOfGoodsAndServicesSold": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "CostOfGoodsSold",
+    "sign": -1
+  },
+  "CostOfGoodsSold": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "CostOfGoodsSold",
+    "sign": -1
+  },
+  "CostOfRevenue": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "CostOfRevenue",
+    "sign": -1
+  },
+  "CostsAndExpenses": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "CostsAndExpenses",
+    "sign": -1
+  },
+  "CumulativeEffectOfInitialAdoptionOfFIN48": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "CumulativeEffectOfInitialAdoptionOfFIN",
+    "sign": ""
+  },
+  "CumulativeEffectOfInitialAdoptionOfNewAccountingPrinciple": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "CumulativeEffectOfInitialAdoptionOfNewAccountingPrinciple",
+    "sign": ""
+  },
+  "CurrentFederalTaxExpenseBenefit": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "CurrentFederalTaxExpenseBenefit",
+    "sign": -1
+  },
+  "CurrentForeignTaxExpenseBenefit": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "CurrentForeignTaxExpenseBenefit",
+    "sign": -1
+  },
+  "CurrentIncomeTaxExpenseBenefit": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "CurrentIncomeTaxExpenseBenefit",
+    "sign": -1
+  },
+  "CurrentStateAndLocalTaxExpenseBenefit": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "CurrentStateAndLocalTaxExpenseBenefit",
+    "sign": -1
+  },
+  "DebtInstrumentCarryingAmount": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DebtInstrumentCarrying",
+    "sign": 1
+  },
+  "DebtInstrumentFaceAmount": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DebtInstrumentFace",
+    "sign": 1
+  },
+  "DebtInstrumentPrincipalOutstanding": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "DebtInstrumentUnamortizedDiscount": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DebtInstrumentUnamortizedDiscount",
+    "sign": 1
+  },
+  "DebtInstrumentUnamortizedDiscountPremiumAndDebtIssuanceCostsNet": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DebtInstrumentUnamortizedDiscountPremiumAndDebtIssuanceCostsNet",
+    "sign": 1
+  },
+  "DebtLongtermAndShorttermCombinedAmount": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DebtLongtermAndShorttermCombined",
+    "sign": 1
+  },
+  "DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPosition12MonthsOrLonger": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPosition12MonthsOrLongerAccumulatedLoss": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPositionLessThan12Months": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPositionLessThan12MonthsAccumulatedLoss": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "DebtSecuritiesAvailableForSaleRealizedGain": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DebtSecuritiesAvailableForSaleRealizedGain",
+    "sign": 1
+  },
+  "DebtSecuritiesAvailableForSaleRealizedLoss": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DebtSecuritiesAvailableForSaleRealizedLoss",
+    "sign": 1
+  },
+  "DebtSecuritiesAvailableForSaleUnrealizedLossPosition": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DebtSecuritiesAvailableForSaleUnrealizedLossPosition",
+    "sign": 1
+  },
+  "DebtSecuritiesAvailableForSaleUnrealizedLossPositionAccumulatedLoss": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DebtSecuritiesAvailableForSaleUnrealizedLossPositionAccumulatedLoss",
+    "sign": 1
+  },
+  "DeferredFederalIncomeTaxExpenseBenefit": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "DeferredFederalIncomeTaxExpenseBenefit",
+    "sign": -1
+  },
+  "DeferredFederalStateAndLocalTaxExpenseBenefit": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "DeferredFederalStateAndLocalTaxExpenseBenefit",
+    "sign": -1
+  },
+  "DeferredForeignIncomeTaxExpenseBenefit": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "DeferredForeignIncomeTaxExpenseBenefit",
+    "sign": -1
+  },
+  "DeferredIncomeTaxExpenseBenefit": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "DeferredIncomeTaxExpenseBenefit",
+    "sign": -1
+  },
+  "DeferredIncomeTaxesAndTaxCredits": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "DeferredIncomeTaxesAndTaxCredits",
+    "sign": ""
+  },
+  "DeferredIncomeTaxLiabilities": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredIncomeTaxLiabilities",
+    "sign": 1
+  },
+  "DeferredIncomeTaxLiabilitiesNet": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredIncomeTaxLiabilitiesNet",
+    "sign": 1
+  },
+  "DeferredRevenue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredRevenue",
+    "sign": 1
+  },
+  "DeferredRevenueAdditions": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredRevenueAdditions",
+    "sign": 1
+  },
+  "DeferredRevenueCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "DeferredRevenue",
+    "sign": 1
+  },
+  "DeferredRevenueNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "DeferredRevenue",
+    "sign": 1
+  },
+  "DeferredRevenueRevenueRecognized": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredRevenueRevenueRecognized",
+    "sign": 1
+  },
+  "DeferredRevenueRevenueRecognized1": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredRevenueRevenueRecognized",
+    "sign": 1
+  },
+  "DeferredStateAndLocalIncomeTaxExpenseBenefit": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "DeferredStateAndLocalIncomeTaxExpenseBenefit",
+    "sign": -1
+  },
+  "DeferredTaxAssetsCapitalLossCarryforwards": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DeferredTaxAssetsCapitalLossCarryforwards",
+    "sign": 1
+  },
+  "DeferredTaxAssetsDeferredIncome": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DeferredTaxAssetsDeferredIncome",
+    "sign": 1
+  },
+  "DeferredTaxAssetsGross": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DeferredTaxAssets",
+    "sign": 1
+  },
+  "DeferredTaxAssetsLiabilitiesNet": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredTaxAssetsLiabilitiesNet",
+    "sign": 1
+  },
+  "DeferredTaxAssetsLiabilitiesNetCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "DeferredTaxAssetsLiabilities",
+    "sign": 1
+  },
+  "DeferredTaxAssetsLiabilitiesNetNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "DeferredTaxAssetsLiabilitiesNet",
+    "sign": 1
+  },
+  "DeferredTaxAssetsNet": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DeferredTaxAssetsNet",
+    "sign": 1
+  },
+  "DeferredTaxAssetsNetCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "DeferredTaxAssets",
+    "sign": 1
+  },
+  "DeferredTaxAssetsNetNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "DeferredTaxAssetsNet",
+    "sign": 1
+  },
+  "DeferredTaxAssetsOperatingLossCarryforwards": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DeferredTaxAssetsOperatingLossCarryforwards",
+    "sign": 1
+  },
+  "DeferredTaxAssetsOther": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DeferredTaxAssetsOther",
+    "sign": 1
+  },
+  "DeferredTaxAssetsTaxDeferredExpenseCompensationAndBenefitsShareBasedCompensationCost": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DeferredTaxAssetsTaxDeferredExpenseCompensationAndBenefitsShareBasedCompensationCost",
+    "sign": 1
+  },
+  "DeferredTaxAssetsTaxDeferredExpenseOther": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DeferredTaxAssetsTaxDeferredExpenseOther",
+    "sign": 1
+  },
+  "DeferredTaxAssetsTaxDeferredExpenseReservesAndAccrualsImpairmentLosses": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredTaxAssetsTaxDeferredExpenseReservesAndAccrualsImpairmentLosses",
+    "sign": 1
+  },
+  "DeferredTaxAssetsTaxDeferredExpenseReservesAndAccrualsOther": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredTaxAssetsTaxDeferredExpenseReservesAndAccrualsOther",
+    "sign": 1
+  },
+  "DeferredTaxAssetsTaxDeferredExpenseReservesAndAccrualsRestructuringCharges": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredTaxAssetsTaxDeferredExpenseReservesAndAccrualsRestructuringCharges",
+    "sign": 1
+  },
+  "DeferredTaxAssetsValuationAllowance": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DeferredTaxAssetsValuationAllowance",
+    "sign": -1
+  },
+  "DeferredTaxLiabilities": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredTaxLiabilities",
+    "sign": 1
+  },
+  "DeferredTaxLiabilitiesLeasingArrangements": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredTaxLiabilitiesLeasingArrangements",
+    "sign": 1
+  },
+  "DeferredTaxLiabilitiesNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "DeferredTaxLiabilities",
+    "sign": 1
+  },
+  "DeferredTaxLiabilitiesOther": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredTaxLiabilitiesOther",
+    "sign": 1
+  },
+  "DeferredTaxLiabilitiesOtherComprehensiveIncome": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "DeferredTaxLiabilitiesOtherComprehensiveIncome",
+    "sign": 1
+  },
+  "DeferredTaxLiabilitiesTaxDeferredIncome": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredTaxLiabilitiesTaxDeferredIncome",
+    "sign": 1
+  },
+  "DeferredTaxLiabilitiesUndistributedForeignEarnings": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredTaxLiabilitiesUndistributedForeignEarnings",
+    "sign": 1
+  },
+  "DeferredTaxLiabilityNotRecognizedAmountOfUnrecognizedDeferredTaxLiability": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredTaxLiabilityNotRecognizedAmountOfUnrecognizedDeferredTaxLiability",
+    "sign": 1
+  },
+  "DeferredTaxLiabilityNotRecognizedAmountOfUnrecognizedDeferredTaxLiabilityUndistributedEarningsOfForeignSubsidiaries": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredTaxLiabilityNotRecognizedAmountOfUnrecognizedDeferredTaxLiabilityUndistributedEarningsOfForeignSubsidiaries",
+    "sign": 1
+  },
+  "DeferredTaxLiabilityNotRecognizedCumulativeAmountOfTemporaryDifference": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DeferredTaxLiabilityNotRecognizedCumulativeAmountOfTemporaryDifference",
+    "sign": 1
+  },
+  "DefinedContributionPlanCostRecognized": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "DefinedContributionPlanCostRecognized",
+    "sign": ""
+  },
+  "DefinedContributionPlanEmployerMatchingContributionPercentOfMatch": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "DefinedContributionPlanEmployerMatchingContributionPercentOfMatch",
+    "sign": ""
+  },
+  "DefinedContributionPlanMaximumAnnualContributionPerEmployeePercent": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "DefinedContributionPlanMaximumAnnualContributionsPerEmployeePercent": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "DepositsReceivedForSecuritiesLoanedAtCarryingValue": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DepositsReceivedForSecuritiesLoaned",
+    "sign": 1
+  },
+  "Depreciation": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "Depreciation",
+    "sign": -1
+  },
+  "DerivativeAssetDesignatedAsHedgingInstrumentFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DerivativeAssetDesignatedAsHedgingInstrumentFairValue",
+    "sign": 1
+  },
+  "DerivativeAssetFairValueGrossAssetIncludingNotSubjectToMasterNettingArrangement": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DerivativeAssetFairValueGrossAssetIncludingNotSubjectToMasterNettingArrangement",
+    "sign": 1
+  },
+  "DerivativeAssetFairValueGrossLiability": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DerivativeAssetFairValueGrossLiability",
+    "sign": 1
+  },
+  "DerivativeAssetNotDesignatedAsHedgingInstrumentFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DerivativeAssetNotDesignatedAsHedgingInstrumentFairValue",
+    "sign": 1
+  },
+  "DerivativeAssets": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DerivativeAssets",
+    "sign": 1
+  },
+  "DerivativeCollateralObligationToReturnCash": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "DerivativeCollateralObligationToReturnCash",
+    "sign": ""
+  },
+  "DerivativeCollateralRightToReclaimCash": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "DerivativeCollateralRightToReclaimCash",
+    "sign": ""
+  },
+  "DerivativeFairValueOfDerivativeAsset": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "DerivativeFairValueOfDerivativeAsset",
+    "sign": 1
+  },
+  "DerivativeFairValueOfDerivativeLiability": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DerivativeFairValueOfDerivativeLiability",
+    "sign": 1
+  },
+  "DerivativeInstrumentsNotDesignatedAsHedgingInstrumentsGainLossNet": {
+    "statement": "IncomeStatement",
+    "section": "Profitability",
+    "subsection": "Metrics",
+    "canonical": "DerivativeInstrumentsNotDesignatedAsHedgingInstrumentsGainLossNet",
+    "sign": 1
+  },
+  "DerivativeLiabilities": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DerivativeLiabilities",
+    "sign": 1
+  },
+  "DerivativeLiabilityFairValueGrossAsset": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DerivativeLiabilityFairValueGrossAsset",
+    "sign": 1
+  },
+  "DerivativeLiabilityFairValueGrossLiabilityIncludingNotSubjectToMasterNettingArrangement": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "DerivativeLiabilityFairValueGrossLiabilityIncludingNotSubjectToMasterNettingArrangement",
+    "sign": 1
+  },
+  "DerivativePriceRiskOptionStrikePrice": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "DividendsCommonStockCash": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "DividendsCommonStockCash",
+    "sign": ""
+  },
+  "DividendsStock": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "DividendsStock",
+    "sign": ""
+  },
+  "EarningsPerShareBasic": {
+    "statement": "IncomeStatement",
+    "section": "Profitability",
+    "subsection": "Metrics",
+    "canonical": "EarningsPerShareBasic",
+    "sign": 1
+  },
+  "EarningsPerShareDiluted": {
+    "statement": "IncomeStatement",
+    "section": "Profitability",
+    "subsection": "Metrics",
+    "canonical": "EarningsPerShareDiluted",
+    "sign": 1
+  },
+  "EffectiveIncomeTaxRateContinuingOperations": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "EffectiveIncomeTaxRateContinuingOperations",
+    "sign": ""
+  },
+  "EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "",
+    "sign": ""
+  },
+  "EffectiveIncomeTaxRateReconciliationDeductionsQualifiedProductionActivities": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "",
+    "sign": ""
+  },
+  "EffectiveIncomeTaxRateReconciliationForeignIncomeTaxRateDifferential": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "",
+    "sign": ""
+  },
+  "EffectiveIncomeTaxRateReconciliationNondeductibleExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "",
+    "sign": ""
+  },
+  "EffectiveIncomeTaxRateReconciliationNondeductibleExpenseShareBasedCompensationCost": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "",
+    "sign": ""
+  },
+  "EffectiveIncomeTaxRateReconciliationOtherAdjustments": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "",
+    "sign": ""
+  },
+  "EffectiveIncomeTaxRateReconciliationStateAndLocalIncomeTaxes": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "",
+    "sign": ""
+  },
+  "EffectiveIncomeTaxRateReconciliationTaxCreditsResearch": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "",
+    "sign": ""
+  },
+  "EffectiveIncomeTaxRateReconciliationTaxSettlementsDomestic": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "",
+    "sign": ""
+  },
+  "EffectOfExchangeRateOnCashAndCashEquivalents": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "EffectOfExchangeRateOnCashAndCashEquivalents",
+    "sign": ""
+  },
+  "EmployeeRelatedLiabilitiesCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "EmployeeRelatedLiabilities",
+    "sign": 1
+  },
+  "EmployeeServiceShareBasedCompensationCashReceivedFromExerciseOfStockOptions": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "EmployeeServiceShareBasedCompensationCashReceivedFromExerciseOfStockOptions",
+    "sign": ""
+  },
+  "EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense",
+    "sign": -1
+  },
+  "EmployeeServiceShareBasedCompensationTaxBenefitRealizedFromExerciseOfStockOptions": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "EmployeeServiceShareBasedCompensationTaxBenefitRealizedFromExerciseOfStockOptions",
+    "sign": ""
+  },
+  "EntityWideDisclosureOnGeographicAreasLongLivedAssetsInEntitysCountryOfDomicile": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "EntityWideDisclosureOnGeographicAreasLongLivedAssetsInForeignCountries": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "EntityWideDisclosureOnGeographicAreasRevenueFromExternalCustomersAttributedToEntitysCountryOfDomicile": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "EntityWideDisclosureOnGeographicAreasRevenueFromExternalCustomersAttributedToForeignCountries": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "EquitySecuritiesFvNiRealizedGainLoss": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "EquitySecuritiesFvNiRealizedGainLoss",
+    "sign": 1
+  },
+  "EquitySecuritiesFvNiUnrealizedGainLoss": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "EquitySecuritiesFvNiUnrealizedGainLoss",
+    "sign": 1
+  },
+  "EquitySecuritiesWithoutReadilyDeterminableFairValueAmount": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "EquitySecuritiesWithoutReadilyDeterminableFairValue",
+    "sign": 1
+  },
+  "ExcessTaxBenefitFromShareBasedCompensationFinancingActivities": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "ExcessTaxBenefitFromShareBasedCompensationFinancingActivities",
+    "sign": ""
+  },
+  "ExcessTaxBenefitFromShareBasedCompensationOperatingActivities": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "ExcessTaxBenefitFromShareBasedCompensationOperatingActivities",
+    "sign": ""
+  },
+  "FairValueAssetsMeasuredOnRecurringBasisCashAndCashEquivalents": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "FairValueAssetsMeasuredOnRecurringBasisCashAndCashEquivalents",
+    "sign": 1
+  },
+  "FairValueAssetsMeasuredOnRecurringBasisChangeInUnrealizedGainLossIncludedInOtherIncome": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "FairValueAssetsMeasuredOnRecurringBasisChangeInUnrealizedGainLossIncludedInOtherIncome",
+    "sign": 1
+  },
+  "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetGainLossIncludedInEarnings": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetGainLossIncludedInEarnings1": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetGainLossIncludedInOtherComprehensiveIncome": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetGainLossIncludedInOtherComprehensiveIncomeLoss": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetPurchases": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetPurchasesSalesIssuancesSettlements": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetTransfersNet": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetTransfersOutOfLevel3": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetValue": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "FinanceLeaseInterestExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "FinanceLeaseInterestExpense",
+    "sign": -1
+  },
+  "FinanceLeaseInterestPaymentOnLiability": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "FinanceLeaseInterestPaymentOnLiability",
+    "sign": ""
+  },
+  "FinanceLeaseLiability": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "FinanceLeaseLiability",
+    "sign": 1
+  },
+  "FinanceLeaseLiabilityPaymentsDue": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "FinanceLeaseLiabilityPaymentsDueAfterYearFive": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "FinanceLeaseLiabilityPaymentsDueNextTwelveMonths": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "FinanceLeaseLiabilityPaymentsDueYearFive": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "FinanceLeaseLiabilityPaymentsDueYearFour": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "FinanceLeaseLiabilityPaymentsDueYearThree": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "FinanceLeaseLiabilityPaymentsDueYearTwo": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "FinanceLeaseLiabilityPaymentsRemainderOfFiscalYear": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "FinanceLeaseLiabilityUndiscountedExcessAmount": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "FinanceLeaseLiabilityUndiscountedExcess",
+    "sign": 1
+  },
+  "FinanceLeasePrincipalPayments": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "FinanceLeasePrincipalPayments",
+    "sign": -1
+  },
+  "FinanceLeaseRightOfUseAsset": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "FinanceLeaseRightOfUseAsset",
+    "sign": 1
+  },
+  "FinanceLeaseRightOfUseAssetAmortization": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "FinanceLeaseRightOfUseAssetAmortization",
+    "sign": 1
+  },
+  "FinanceLeaseWeightedAverageDiscountRatePercent": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "FiniteLivedIntangibleAssetsAccumulatedAmortization": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "FiniteLivedIntangibleAssetsAccumulatedAmortization",
+    "sign": 1
+  },
+  "FiniteLivedIntangibleAssetsAmortizationExpense": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "FiniteLivedIntangibleAssetsAmortizationExpense",
+    "sign": 1
+  },
+  "FiniteLivedIntangibleAssetsAmortizationExpenseAfterYearFive": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "",
+    "sign": ""
+  },
+  "FiniteLivedIntangibleAssetsAmortizationExpenseNextTwelveMonths": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "",
+    "sign": ""
+  },
+  "FiniteLivedIntangibleAssetsAmortizationExpenseRemainderOfFiscalYear": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "",
+    "sign": ""
+  },
+  "FiniteLivedIntangibleAssetsAmortizationExpenseYearFive": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "",
+    "sign": ""
+  },
+  "FiniteLivedIntangibleAssetsAmortizationExpenseYearFour": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "",
+    "sign": ""
+  },
+  "FiniteLivedIntangibleAssetsAmortizationExpenseYearThree": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "",
+    "sign": ""
+  },
+  "FiniteLivedIntangibleAssetsAmortizationExpenseYearTwo": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "",
+    "sign": ""
+  },
+  "FiniteLivedIntangibleAssetsGross": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "FiniteLivedIntangibleAssets",
+    "sign": 1
+  },
+  "FiniteLivedIntangibleAssetsNet": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "FiniteLivedIntangibleAssetsNet",
+    "sign": 1
+  },
+  "FiniteLivedIntangibleAssetsUsefulLifeMaximum": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "",
+    "sign": ""
+  },
+  "FiniteLivedIntangibleAssetsUsefulLifeMinimum": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "",
+    "sign": ""
+  },
+  "FinitelivedIntangibleAssetsAcquired1": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "FinitelivedIntangibleAssetsAcquired",
+    "sign": 1
+  },
+  "ForeignCurrencyCashFlowHedgeGainLossReclassifiedToEarningsNet": {
+    "statement": "IncomeStatement",
+    "section": "Profitability",
+    "subsection": "Metrics",
+    "canonical": "ForeignCurrencyCashFlowHedgeGainLossReclassifiedToEarningsNet",
+    "sign": 1
+  },
+  "ForeignCurrencyCashFlowHedgeGainLossToBeReclassifiedDuringNext12Months": {
+    "statement": "IncomeStatement",
+    "section": "Profitability",
+    "subsection": "Metrics",
+    "canonical": "ForeignCurrencyCashFlowHedgeGainLossToBeReclassifiedDuringNext12Months",
+    "sign": 1
+  },
+  "ForeignCurrencyTransactionGainLossBeforeTax": {
+    "statement": "IncomeStatement",
+    "section": "NonOperating",
+    "subsection": "OtherIncomeExpense",
+    "canonical": "ForeignCurrencyTransactionGainLossBeforeTax",
+    "sign": 1
+  },
+  "FurnitureAndFixturesGross": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "FurnitureAndFixtures",
+    "sign": ""
+  },
+  "FutureAmortizationExpenseAfterYearFive": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "",
+    "sign": ""
+  },
+  "FutureAmortizationExpenseYearFive": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "",
+    "sign": ""
+  },
+  "FutureAmortizationExpenseYearFour": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "",
+    "sign": ""
+  },
+  "FutureAmortizationExpenseYearOne": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "FutureAmortizationExpenseYearOne",
+    "sign": -1
+  },
+  "FutureAmortizationExpenseYearThree": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "",
+    "sign": ""
+  },
+  "FutureAmortizationExpenseYearTwo": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "",
+    "sign": ""
+  },
+  "GainLossOnComponentsExcludedFromAssessmentOfForeignCurrencyCashFlowHedgeEffectiveness": {
+    "statement": "IncomeStatement",
+    "section": "Profitability",
+    "subsection": "Metrics",
+    "canonical": "GainLossOnComponentsExcludedFromAssessmentOfForeignCurrencyCashFlowHedgeEffectiveness",
+    "sign": 1
+  },
+  "GainLossOnDerivativeInstrumentsNetPretax": {
+    "statement": "IncomeStatement",
+    "section": "Profitability",
+    "subsection": "Metrics",
+    "canonical": "GainLossOnDerivativeInstrumentsNetPretax",
+    "sign": 1
+  },
+  "GainLossOnInvestments": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "GainLossOnInvestments",
+    "sign": 1
+  },
+  "GeneralAndAdministrativeExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "GeneralAndAdministrativeExpense",
+    "sign": -1
+  },
+  "Goodwill": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "Goodwill",
+    "sign": 1
+  },
+  "GoodwillAcquiredDuringPeriod": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "GoodwillAcquiredDuringPeriod",
+    "sign": 1
+  },
+  "GoodwillImpairedAccumulatedImpairmentLoss": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "GoodwillImpairedAccumulatedImpairmentLoss",
+    "sign": -1
+  },
+  "GoodwillImpairmentLoss": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "GoodwillImpairmentLoss",
+    "sign": 1
+  },
+  "GoodwillOtherChanges": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "GoodwillOtherChanges",
+    "sign": 1
+  },
+  "GoodwillOtherIncreaseDecrease": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "GoodwillOtherIncreaseDecrease",
+    "sign": 1
+  },
+  "GoodwillWrittenOffRelatedToSaleOfBusinessUnit": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "GoodwillWrittenOffRelatedToSaleOfBusinessUnit",
+    "sign": 1
+  },
+  "GrossProfit": {
+    "statement": "IncomeStatement",
+    "section": "Profitability",
+    "subsection": "Metrics",
+    "canonical": "GrossProfit",
+    "sign": 1
+  },
+  "HeldToMaturitySecurities": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "HeldToMaturitySecurities",
+    "sign": 1
+  },
+  "HeldToMaturitySecuritiesAccumulatedUnrecognizedHoldingGain": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "HeldToMaturitySecuritiesAccumulatedUnrecognizedHoldingGain",
+    "sign": 1
+  },
+  "HeldToMaturitySecuritiesAccumulatedUnrecognizedHoldingLoss": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "HeldToMaturitySecuritiesAccumulatedUnrecognizedHoldingLoss",
+    "sign": 1
+  },
+  "HeldToMaturitySecuritiesAmortizedCostBeforeOtherThanTemporaryImpairment": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "HeldToMaturitySecuritiesAmortizedCostBeforeOtherThanTemporaryImpairment",
+    "sign": 1
+  },
+  "HeldToMaturitySecuritiesContinuousUnrealizedLossPositionLessThanTwelveMonthsFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "HeldToMaturitySecuritiesContinuousUnrealizedLossPositionTwelveMonthsOrLongerFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "HeldToMaturitySecuritiesFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "HeldToMaturitySecuritiesFairValue",
+    "sign": 1
+  },
+  "ImpairmentEffectOnEarningsPerShareAfterTax": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "ImpairmentEffectOnEarningsPerShareAfterTax",
+    "sign": 1
+  },
+  "ImpairmentOfInvestments": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "ImpairmentOfInvestments",
+    "sign": 1
+  },
+  "IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic",
+    "sign": ""
+  },
+  "IncomeLossFromContinuingOperationsBeforeIncomeTaxesForeign": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesForeign",
+    "sign": ""
+  },
+  "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments",
+    "sign": 1
+  },
+  "IncomeTaxExpenseBenefit": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "IncomeTaxExpenseBenefit",
+    "sign": -1
+  },
+  "IncomeTaxesPaidNet": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "IncomeTaxesPaidNet",
+    "sign": ""
+  },
+  "IncreaseDecreaseInAccountsPayable": {
+    "statement": "CashFlowStatement",
+    "section": "OperatingActivities",
+    "subsection": "WorkingCapitalAndOperations",
+    "canonical": "IncreaseDecreaseInAccountsPayable",
+    "sign": 1
+  },
+  "IncreaseDecreaseInAccountsReceivable": {
+    "statement": "CashFlowStatement",
+    "section": "OperatingActivities",
+    "subsection": "WorkingCapitalAndOperations",
+    "canonical": "IncreaseDecreaseInAccountsReceivable",
+    "sign": ""
+  },
+  "IncreaseDecreaseInAccruedIncomeTaxesPayable": {
+    "statement": "CashFlowStatement",
+    "section": "OperatingActivities",
+    "subsection": "WorkingCapitalAndOperations",
+    "canonical": "IncreaseDecreaseInAccruedIncomeTaxesPayable",
+    "sign": 1
+  },
+  "IncreaseDecreaseInCashCollateralForLoanedSecurities": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "IncreaseDecreaseInCashCollateralForLoanedSecurities",
+    "sign": ""
+  },
+  "IncreaseDecreaseInCollateralHeldUnderSecuritiesLending": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "IncreaseDecreaseInCollateralHeldUnderSecuritiesLending",
+    "sign": ""
+  },
+  "IncreaseDecreaseInContractWithCustomerLiability": {
+    "statement": "CashFlowStatement",
+    "section": "OperatingActivities",
+    "subsection": "WorkingCapitalAndOperations",
+    "canonical": "IncreaseDecreaseInContractWithCustomerLiability",
+    "sign": ""
+  },
+  "IncreaseDecreaseInDeferredRevenue": {
+    "statement": "CashFlowStatement",
+    "section": "OperatingActivities",
+    "subsection": "WorkingCapitalAndOperations",
+    "canonical": "IncreaseDecreaseInDeferredRevenue",
+    "sign": ""
+  },
+  "IncreaseDecreaseInInventories": {
+    "statement": "CashFlowStatement",
+    "section": "OperatingActivities",
+    "subsection": "WorkingCapitalAndOperations",
+    "canonical": "IncreaseDecreaseInInventories",
+    "sign": ""
+  },
+  "IncreaseDecreaseInOtherCurrentAssets": {
+    "statement": "CashFlowStatement",
+    "section": "OperatingActivities",
+    "subsection": "WorkingCapitalAndOperations",
+    "canonical": "IncreaseDecreaseInOtherCurrentAssets",
+    "sign": ""
+  },
+  "IncreaseDecreaseInOtherCurrentLiabilities": {
+    "statement": "CashFlowStatement",
+    "section": "OperatingActivities",
+    "subsection": "WorkingCapitalAndOperations",
+    "canonical": "IncreaseDecreaseInOtherCurrentLiabilities",
+    "sign": ""
+  },
+  "IncreaseDecreaseInOtherNoncurrentAssets": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "IncreaseDecreaseInOtherNoncurrentAssets",
+    "sign": ""
+  },
+  "IncreaseDecreaseInOtherNoncurrentLiabilities": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "IncreaseDecreaseInOtherNoncurrentLiabilities",
+    "sign": ""
+  },
+  "IncrementalCommonSharesAttributableToShareBasedPaymentArrangements": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "IncrementalCommonSharesAttributableToShareBasedPaymentArrangements",
+    "sign": ""
+  },
+  "IntangibleAssetsNetExcludingGoodwill": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "IntangibleAssetsNetExcludingGoodwill",
+    "sign": 1
+  },
+  "InterestExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "InterestExpense",
+    "sign": -1
+  },
+  "InterestPaid": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "InterestPaid",
+    "sign": ""
+  },
+  "InventoryAdjustments": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "InventoryAdjustments",
+    "sign": 1
+  },
+  "InventoryFinishedGoods": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "InventoryFinishedGoods",
+    "sign": 1
+  },
+  "InventoryFinishedGoodsNetOfReserves": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "InventoryFinishedGoodsNetOfReserves",
+    "sign": 1
+  },
+  "InventoryNet": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "InventoryNet",
+    "sign": 1
+  },
+  "InventoryRawMaterials": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "InventoryRawMaterials",
+    "sign": 1
+  },
+  "InventoryRawMaterialsNetOfReserves": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "InventoryRawMaterialsNetOfReserves",
+    "sign": 1
+  },
+  "InventoryWorkInProcess": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "InventoryWorkInProcess",
+    "sign": 1
+  },
+  "InventoryWorkInProcessNetOfReserves": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "InventoryWorkInProcessNetOfReserves",
+    "sign": 1
+  },
+  "InvestmentIncomeInterestAndDividend": {
+    "statement": "IncomeStatement",
+    "section": "NonOperating",
+    "subsection": "OtherIncomeExpense",
+    "canonical": "InvestmentIncomeInterestAndDividend",
+    "sign": 1
+  },
+  "InvestmentIncomeNet": {
+    "statement": "IncomeStatement",
+    "section": "NonOperating",
+    "subsection": "OtherIncomeExpense",
+    "canonical": "InvestmentIncomeNet",
+    "sign": 1
+  },
+  "Land": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "Land",
+    "sign": ""
+  },
+  "LeaseAndRentalExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "LeaseAndRentalExpense",
+    "sign": -1
+  },
+  "LeaseholdImprovementsGross": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "LeaseholdImprovements",
+    "sign": ""
+  },
+  "LesseeOperatingLeaseLiabilityPaymentsDue": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "LesseeOperatingLeaseLiabilityPaymentsDueAfterYearFive": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "LesseeOperatingLeaseLiabilityPaymentsDueNextTwelveMonths": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "LesseeOperatingLeaseLiabilityPaymentsDueYearFive": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "LesseeOperatingLeaseLiabilityPaymentsDueYearFour": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "LesseeOperatingLeaseLiabilityPaymentsDueYearThree": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "LesseeOperatingLeaseLiabilityPaymentsDueYearTwo": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "LesseeOperatingLeaseLiabilityPaymentsRemainderOfFiscalYear": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "",
+    "sign": ""
+  },
+  "LesseeOperatingLeaseLiabilityUndiscountedExcessAmount": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "LesseeOperatingLeaseLiabilityUndiscountedExcess",
+    "sign": 1
+  },
+  "Liabilities": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "Liabilities",
+    "sign": 1
+  },
+  "LiabilitiesAndStockholdersEquity": {
+    "statement": "BalanceSheet",
+    "section": "",
+    "subsection": "",
+    "canonical": "LiabilitiesAndEquity",
+    "sign": 1
+  },
+  "LiabilitiesCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "Liabilities",
+    "sign": 1
+  },
+  "LineOfCreditFacilityCurrentBorrowingCapacity": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "LineOfCreditFacilityCurrentBorrowingCapacity",
+    "sign": 1
+  },
+  "LineOfCreditFacilityMaximumBorrowingCapacity": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "LitigationReserveNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "LitigationReserve",
+    "sign": 1
+  },
+  "LongTermDebt": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "LongTermDebt",
+    "sign": 1
+  },
+  "LongTermDebtCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "LongTermDebt",
+    "sign": 1
+  },
+  "LongTermDebtFairValue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "LongTermDebtFairValue",
+    "sign": 1
+  },
+  "LongTermDebtMaturitiesRepaymentsOfPrincipalAfterYearFive": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "",
+    "sign": ""
+  },
+  "LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "",
+    "sign": ""
+  },
+  "LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFive": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "",
+    "sign": ""
+  },
+  "LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "",
+    "sign": ""
+  },
+  "LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "",
+    "sign": ""
+  },
+  "LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "",
+    "sign": ""
+  },
+  "LongTermDebtMaturitiesRepaymentsOfPrincipalRemainderOfFiscalYear": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "",
+    "sign": ""
+  },
+  "LongTermDebtNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "LongTermDebt",
+    "sign": 1
+  },
+  "LongTermInvestments": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "LongTermInvestments",
+    "sign": 1
+  },
+  "LongTermNotesPayable": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "LongTermNotesPayable",
+    "sign": 1
+  },
+  "LossContingencyAccrualCarryingValueCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "LossContingencyAccrualCarryingValue",
+    "sign": 1
+  },
+  "LossContingencyRangeOfPossibleLossPortionNotAccrued": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "LossContingencyRangeOfPossibleLossPortionNotAccrued",
+    "sign": ""
+  },
+  "MarketableSecuritiesRealizedGainLossOtherThanTemporaryImpairmentsAmount": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "MarketableSecuritiesRealizedGainLossOtherThanTemporaryImpairments",
+    "sign": 1
+  },
+  "MinorityInterestOwnershipPercentageByParent": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "NetCashProvidedByUsedInFinancingActivities": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "NetCashFromFinancing",
+    "sign": ""
+  },
+  "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+    "sign": ""
+  },
+  "NetCashProvidedByUsedInInvestingActivities": {
+    "statement": "CashFlowStatement",
+    "section": "InvestingActivities",
+    "subsection": "InvestmentsAndCapex",
+    "canonical": "NetCashFromInvesting",
+    "sign": ""
+  },
+  "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+    "sign": ""
+  },
+  "NetCashProvidedByUsedInOperatingActivities": {
+    "statement": "CashFlowStatement",
+    "section": "OperatingActivities",
+    "subsection": "WorkingCapitalAndOperations",
+    "canonical": "NetCashFromOperations",
+    "sign": ""
+  },
+  "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+    "sign": ""
+  },
+  "NetIncomeLoss": {
+    "statement": "IncomeStatement",
+    "section": "Profitability",
+    "subsection": "Metrics",
+    "canonical": "NetIncome",
+    "sign": 1
+  },
+  "NoncashOrPartNoncashAcquisitionFixedAssetsAcquired1": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "NoncashOrPartNoncashAcquisitionFixedAssetsAcquired",
+    "sign": 1
+  },
+  "NoncurrentAssets": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "NoncurrentAssets",
+    "sign": 1
+  },
+  "NonoperatingIncomeExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "NonoperatingIncomeExpense",
+    "sign": -1
+  },
+  "NumberOfBusinessesAcquired": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "NumberOfReportableSegments": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "OperatingExpenses": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "OperatingExpenses",
+    "sign": -1
+  },
+  "OperatingIncomeLoss": {
+    "statement": "IncomeStatement",
+    "section": "Profitability",
+    "subsection": "Metrics",
+    "canonical": "OperatingIncome",
+    "sign": 1
+  },
+  "OperatingLeaseCost": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "OperatingLeaseCost",
+    "sign": ""
+  },
+  "OperatingLeaseImpairmentLoss": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "OperatingLeaseImpairmentLoss",
+    "sign": -1
+  },
+  "OperatingLeaseLiability": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "OperatingLeaseLiability",
+    "sign": 1
+  },
+  "OperatingLeaseLiabilityNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "OperatingLeaseLiability",
+    "sign": 1
+  },
+  "OperatingLeasePayments": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "OperatingLeasePayments",
+    "sign": -1
+  },
+  "OperatingLeaseRightOfUseAsset": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "OperatingLeaseRightOfUseAsset",
+    "sign": 1
+  },
+  "OperatingLeaseWeightedAverageDiscountRatePercent": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "OperatingLossCarryforwards": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "OperatingLossCarryforwards",
+    "sign": ""
+  },
+  "OptionIndexedToIssuersEquityStrikePrice": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "OtherAccruedLiabilitiesNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "OtherAccruedLiabilities",
+    "sign": 1
+  },
+  "OtherAssets": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "OtherAssets",
+    "sign": 1
+  },
+  "OtherAssetsCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "OtherAssets",
+    "sign": 1
+  },
+  "OtherAssetsFairValueDisclosure": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "OtherAssetsNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "OtherAssets",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeAvailableForSaleSecuritiesAdjustmentNetOfTaxPeriodIncreaseDecrease": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeAvailableForSaleSecuritiesAdjustmentNetOfTaxPeriodIncreaseDecrease",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPeriodIncreaseDecrease": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPeriodIncreaseDecrease",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPeriodIncreaseDecrease": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPeriodIncreaseDecrease",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeForeignCurrencyTranslationAdjustmentTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeForeignCurrencyTranslationAdjustmentTax",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustment",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossAvailableForSaleSecuritiesTax",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedges",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesTax",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustment",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLoss",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecrease": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecrease",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossReclassificationAdjustmentForSaleOfSecuritiesIncludedInNetIncomeNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossReclassificationAdjustmentForSaleOfSecuritiesIncludedInNetIncome",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossReclassificationAdjustmentForSaleOfSecuritiesIncludedInNetIncomeTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossReclassificationAdjustmentForSaleOfSecuritiesIncludedInNetIncomeTax",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecurities",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesTax",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivatives",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesTax",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossReclassificationAdjustmentOnDerivativesIncludedInNetIncomeNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossReclassificationAdjustmentOnDerivativesIncludedInNetIncome",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeLossReclassificationAdjustmentOnDerivativesIncludedInNetIncomeTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeLossReclassificationAdjustmentOnDerivativesIncludedInNetIncomeTax",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeReclassificationAdjustmentForSaleOfSecuritiesIncludedInNetIncomeNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeReclassificationAdjustmentForSaleOfSecuritiesIncludedInNetIncome",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeReclassificationAdjustmentForSaleOfSecuritiesIncludedInNetIncomeTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeReclassificationAdjustmentForSaleOfSecuritiesIncludedInNetIncomeTax",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeReclassificationAdjustmentOnDerivativesIncludedInNetIncomeNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeReclassificationAdjustmentOnDerivativesIncludedInNetIncome",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeReclassificationAdjustmentOnDerivativesIncludedInNetIncomeTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeReclassificationAdjustmentOnDerivativesIncludedInNetIncomeTax",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriod",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriod",
+    "sign": 1
+  },
+  "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax",
+    "sign": 1
+  },
+  "OtherLiabilities": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "OtherLiabilities",
+    "sign": 1
+  },
+  "OtherLiabilitiesCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "OtherLiabilities",
+    "sign": 1
+  },
+  "OtherLiabilitiesFairValueDisclosure": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "",
+    "sign": ""
+  },
+  "OtherLiabilitiesNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "OtherLiabilities",
+    "sign": 1
+  },
+  "OtherNonoperatingIncomeExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "OtherNonoperatingIncomeExpense",
+    "sign": -1
+  },
+  "OtherReceivablesGrossCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "OtherReceivables",
+    "sign": 1
+  },
+  "PaymentsForProceedsFromOtherInvestingActivities": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "PaymentsForProceedsFromOtherInvestingActivities",
+    "sign": 1
+  },
+  "PaymentsForRepurchaseOfCommonStock": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "PaymentsForRepurchaseOfCommonStock",
+    "sign": -1
+  },
+  "PaymentsForRestructuring": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "PaymentsForRestructuring",
+    "sign": -1
+  },
+  "PaymentsOfDebtExtinguishmentCosts": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "PaymentsOfDebtExtinguishmentCosts",
+    "sign": -1
+  },
+  "PaymentsOfDebtRestructuringCosts": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "PaymentsOfDebtRestructuringCosts",
+    "sign": -1
+  },
+  "PaymentsOfDividendsCommonStock": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "PaymentsOfDividendsCommonStock",
+    "sign": -1
+  },
+  "PaymentsRelatedToTaxWithholdingForShareBasedCompensation": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+    "sign": -1
+  },
+  "PaymentsToAcquireBusinessesNetOfCashAcquired": {
+    "statement": "CashFlowStatement",
+    "section": "InvestingActivities",
+    "subsection": "InvestmentsAndCapex",
+    "canonical": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+    "sign": -1
+  },
+  "PaymentsToAcquireInvestments": {
+    "statement": "CashFlowStatement",
+    "section": "InvestingActivities",
+    "subsection": "InvestmentsAndCapex",
+    "canonical": "PaymentsToAcquireInvestments",
+    "sign": -1
+  },
+  "PaymentsToAcquirePropertyPlantAndEquipment": {
+    "statement": "CashFlowStatement",
+    "section": "InvestingActivities",
+    "subsection": "InvestmentsAndCapex",
+    "canonical": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "sign": -1
+  },
+  "ProceedsFromConvertibleDebt": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "ProceedsFromConvertibleDebt",
+    "sign": 1
+  },
+  "ProceedsFromDebtMaturingInMoreThanThreeMonths": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "ProceedsFromDebtMaturingInMoreThanThreeMonths",
+    "sign": 1
+  },
+  "ProceedsFromDivestitureOfBusinesses": {
+    "statement": "CashFlowStatement",
+    "section": "InvestingActivities",
+    "subsection": "InvestmentsAndCapex",
+    "canonical": "ProceedsFromDivestitureOfBusinesses",
+    "sign": 1
+  },
+  "ProceedsFromIssuanceOfCommonStock": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "ProceedsFromIssuanceOfCommonStock",
+    "sign": 1
+  },
+  "ProceedsFromLinesOfCredit": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "ProceedsFromLinesOfCredit",
+    "sign": 1
+  },
+  "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities": {
+    "statement": "CashFlowStatement",
+    "section": "InvestingActivities",
+    "subsection": "InvestmentsAndCapex",
+    "canonical": "",
+    "sign": ""
+  },
+  "ProceedsFromPaymentsForOtherFinancingActivities": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "ProceedsFromPaymentsForOtherFinancingActivities",
+    "sign": 1
+  },
+  "ProceedsFromRepaymentsOfShortTermDebtMaturingInThreeMonthsOrLess": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "ProceedsFromRepaymentsOfShortTermDebtMaturingInThreeMonthsOrLess",
+    "sign": 1
+  },
+  "ProceedsFromSaleOfAvailableForSaleSecurities": {
+    "statement": "CashFlowStatement",
+    "section": "InvestingActivities",
+    "subsection": "InvestmentsAndCapex",
+    "canonical": "ProceedsFromSaleOfAvailableForSaleSecurities",
+    "sign": 1
+  },
+  "ProceedsFromStockOptionsExercised": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "ProceedsFromStockOptionsExercised",
+    "sign": 1
+  },
+  "ProductWarrantyAccrual": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "ProductWarrantyAccrual",
+    "sign": 1
+  },
+  "ProductWarrantyAccrualNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "ProductWarrantyAccrual",
+    "sign": 1
+  },
+  "ProductWarrantyAccrualPayments": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "ProductWarrantyAccrualPayments",
+    "sign": -1
+  },
+  "ProductWarrantyAccrualPreexistingIncreaseDecrease": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "ProductWarrantyAccrualPreexistingIncreaseDecrease",
+    "sign": 1
+  },
+  "ProductWarrantyAccrualWarrantiesIssued": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "ProductWarrantyAccrualWarrantiesIssued",
+    "sign": 1
+  },
+  "PropertyPlantAndEquipmentGross": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "PropertyPlantAndEquipment",
+    "sign": 1
+  },
+  "PropertyPlantAndEquipmentNet": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "NonCurrentAssets",
+    "canonical": "PropertyPlantAndEquipment",
+    "sign": 1
+  },
+  "RecognitionOfDeferredRevenue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "RecognitionOfDeferredRevenue",
+    "sign": 1
+  },
+  "RepaymentsOfCommercialPaper": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "RepaymentsOfCommercialPaper",
+    "sign": -1
+  },
+  "RepaymentsOfConvertibleDebt": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "RepaymentsOfConvertibleDebt",
+    "sign": -1
+  },
+  "RepaymentsOfDebtMaturingInMoreThanThreeMonths": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "RepaymentsOfDebtMaturingInMoreThanThreeMonths",
+    "sign": -1
+  },
+  "ResearchAndDevelopmentExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "ResearchAndDevelopmentExpense",
+    "sign": -1
+  },
+  "RestructuringAndRelatedCostExpectedCostRemaining1": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "RestructuringAndRelatedCostExpectedCostRemaining",
+    "sign": ""
+  },
+  "RestructuringAndRelatedCostNumberOfPositionsEliminatedInceptionToDate": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "RestructuringCharges": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "RestructuringCharges",
+    "sign": -1
+  },
+  "RestructuringReserve": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "RestructuringReserve",
+    "sign": 1
+  },
+  "RestructuringReserveAccrualAdjustment1": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "RestructuringReserveAccrualAdjustment",
+    "sign": 1
+  },
+  "RestructuringReserveSettledWithCash": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "RestructuringReserveSettledWithCash",
+    "sign": 1
+  },
+  "RestructuringReserveSettledWithoutCash1": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "RestructuringReserveSettledWithoutCash",
+    "sign": 1
+  },
+  "RestructuringReserveSettledWithoutCash2": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "RestructuringReserveSettledWithoutCash",
+    "sign": 1
+  },
+  "RetainedEarningsAccumulatedDeficit": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "RetainedEarnings",
+    "sign": 1
+  },
+  "RevenueFromContractWithCustomerExcludingAssessedTax": {
+    "statement": "IncomeStatement",
+    "section": "Revenue",
+    "subsection": "OperatingRevenue",
+    "canonical": "Revenue",
+    "sign": 1
+  },
+  "RevenueRemainingPerformanceObligation": {
+    "statement": "IncomeStatement",
+    "section": "Revenue",
+    "subsection": "OperatingRevenue",
+    "canonical": "RevenueRemainingPerformanceObligation",
+    "sign": 1
+  },
+  "RevenueRemainingPerformanceObligationPercentage": {
+    "statement": "IncomeStatement",
+    "section": "Revenue",
+    "subsection": "OperatingRevenue",
+    "canonical": "",
+    "sign": ""
+  },
+  "Revenues": {
+    "statement": "IncomeStatement",
+    "section": "Revenue",
+    "subsection": "OperatingRevenue",
+    "canonical": "Revenue",
+    "sign": 1
+  },
+  "RightOfUseAssetObtainedInExchangeForFinanceLeaseLiability": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "RightOfUseAssetObtainedInExchangeForFinanceLeaseLiability",
+    "sign": 1
+  },
+  "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+    "sign": 1
+  },
+  "SalesRevenueGoodsNet": {
+    "statement": "IncomeStatement",
+    "section": "Revenue",
+    "subsection": "OperatingRevenue",
+    "canonical": "Revenue",
+    "sign": 1
+  },
+  "SalesRevenueNet": {
+    "statement": "IncomeStatement",
+    "section": "Revenue",
+    "subsection": "OperatingRevenue",
+    "canonical": "Revenue",
+    "sign": 1
+  },
+  "SecuritiesLoaned": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "SecuritiesLoaned",
+    "sign": 1
+  },
+  "SecuritiesReceivedAsCollateral": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "SecuritiesReceivedAsCollateral",
+    "sign": 1
+  },
+  "SegmentReportingReconcilingItemForOperatingProfitLossFromSegmentToConsolidatedAmount": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "SegmentReportingReconcilingItemForOperatingProfitLossFromSegmentToConsolidated",
+    "sign": ""
+  },
+  "SellingAndMarketingExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "SellingAndMarketingExpense",
+    "sign": -1
+  },
+  "SeveranceCosts": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "SeveranceCosts",
+    "sign": -1
+  },
+  "ShareBasedCompensation": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "ShareBasedCompensation",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsRiskFreeInterestRateMaximum": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsRiskFreeInterestRateMinimum": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardMaximumEmployeeSubscriptionRate": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardNumberOfSharesAuthorized": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableIntrinsicValue": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableIntrinsicValue",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableNumber": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableNumber",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableWeightedAverageExercisePrice": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableWeightedAverageRemainingContractualTerm": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriod": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriod",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriodTotalIntrinsicValue": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriodTotalIntrinsicValue",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriodWeightedAverageExercisePrice": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExpirationsInPeriod": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExpirationsInPeriod",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExpirationsInPeriodWeightedAverageExercisePrice": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresAndExpirationsInPeriod": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresAndExpirationsInPeriod",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresAndExpirationsInPeriodWeightedAverageExercisePrice": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresInPeriod": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresInPeriod",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresInPeriodWeightedAverageExercisePrice": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriod": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriod",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageExercisePrice": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingIntrinsicValue": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingNumber": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingWeightedAverageExercisePrice": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingWeightedAverageRemainingContractualTerm": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsExercisesInPeriodWeightedAverageExercisePrice": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsExpirationsInPeriodWeightedAverageExercisePrice": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageExercisePrice": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ShareBasedCompensationSharesAuthorizedUnderStockOptionPlansExercisePriceRangeNumberOfExercisableOptions": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsExercisableIntrinsicValue1": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsExercisableIntrinsicValue",
+    "sign": ""
+  },
+  "SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsOutstandingWeightedAverageRemainingContractualTerm1": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "SharebasedCompensationArrangementBySharebasedPaymentAwardPurchasePriceOfCommonStockPercent": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "SharebasedCompensationArrangementBySharebasedPaymentAwardPurchasePriceOfCommonStock",
+    "sign": ""
+  },
+  "ShortTermBorrowings": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "ShortTermBorrowings",
+    "sign": 1
+  },
+  "ShortTermInvestments": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "CurrentAssets",
+    "canonical": "ShortTermInvestments",
+    "sign": 1
+  },
+  "StockholdersEquity": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "StockholdersEquity",
+    "sign": 1
+  },
+  "StockIssuedDuringPeriodSharesEmployeeStockPurchasePlans": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "StockIssuedDuringPeriodSharesEmployeeStockPurchasePlans",
+    "sign": ""
+  },
+  "StockIssuedDuringPeriodSharesNewIssues": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "StockIssuedDuringPeriodSharesNewIssues",
+    "sign": ""
+  },
+  "StockIssuedDuringPeriodSharesStockOptionsExercised": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "StockIssuedDuringPeriodSharesStockOptionsExercised",
+    "sign": ""
+  },
+  "StockRepurchasedDuringPeriodShares": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "StockRepurchasedDuringPeriodShares",
+    "sign": ""
+  },
+  "StockRepurchasedDuringPeriodValue": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "StockRepurchasedDuringPeriodValue",
+    "sign": ""
+  },
+  "StockRepurchaseProgramAuthorizedAmount": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "StockRepurchaseProgramAuthorizedAmount1": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "StockRepurchaseProgramRemainingAuthorizedRepurchaseAmount1": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "TaxAdjustmentsSettlementsAndUnusualProvisions": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "TaxAdjustmentsSettlementsAndUnusualProvisions",
+    "sign": ""
+  },
+  "TaxBenefitFromStockOptionsExercised": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "TaxBenefitFromStockOptionsExercised",
+    "sign": ""
+  },
+  "TaxCutsAndJobsActOf2017IncomeTaxExpenseBenefit": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "TaxCutsAndJobsActOf2017IncomeTaxExpenseBenefit",
+    "sign": -1
+  },
+  "TaxCutsAndJobsActOf2017MeasurementPeriodAdjustmentIncomeTaxExpenseBenefit": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "TaxCutsAndJobsActOf2017MeasurementPeriodAdjustmentIncomeTaxExpenseBenefit",
+    "sign": -1
+  },
+  "UndistributedEarningsOfForeignSubsidiaries": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "UndistributedEarningsOfForeignSubsidiaries",
+    "sign": ""
+  },
+  "UnrecognizedTaxBenefits": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "UnrecognizedTaxBenefits",
+    "sign": ""
+  },
+  "UnrecognizedTaxBenefitsDecreasesResultingFromPriorPeriodTaxPositions": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "UnrecognizedTaxBenefitsDecreasesResultingFromPriorPeriodTaxPositions",
+    "sign": ""
+  },
+  "UnrecognizedTaxBenefitsDecreasesResultingFromSettlementsWithTaxingAuthorities": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "UnrecognizedTaxBenefitsDecreasesResultingFromSettlementsWithTaxingAuthorities",
+    "sign": ""
+  },
+  "UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestAccrued": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestAccrued",
+    "sign": ""
+  },
+  "UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestExpense": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestExpense",
+    "sign": -1
+  },
+  "UnrecognizedTaxBenefitsIncreasesResultingFromCurrentPeriodTaxPositions": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "UnrecognizedTaxBenefitsIncreasesResultingFromCurrentPeriodTaxPositions",
+    "sign": ""
+  },
+  "UnrecognizedTaxBenefitsIncreasesResultingFromPriorPeriodTaxPositions": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "UnrecognizedTaxBenefitsIncreasesResultingFromPriorPeriodTaxPositions",
+    "sign": ""
+  },
+  "UnrecognizedTaxBenefitsReductionsResultingFromLapseOfApplicableStatuteOfLimitations": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "UnrecognizedTaxBenefitsReductionsResultingFromLapseOfApplicableStatuteOfLimitations",
+    "sign": ""
+  },
+  "UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate",
+    "sign": ""
+  },
+  "WeightedAverageNumberOfDilutedSharesOutstanding": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "WeightedAverageNumberOfSharesOutstandingBasic": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+    "sign": ""
+  },
+  "EffectiveIncomeTaxRateReconciliationFdiiPercent": {
+    "statement": "IncomeStatement",
+    "section": "Taxes",
+    "subsection": "IncomeTaxes",
+    "canonical": "",
+    "sign": ""
+  },
+  "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations": {
+    "statement": "CashFlowStatement",
+    "section": "CashFlow",
+    "subsection": "Other",
+    "canonical": "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+    "sign": ""
+  },
+  "LossContingencyAccrualAtCarryingValue": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "LiabilitiesOther",
+    "canonical": "LossContingencyAccrual",
+    "sign": 1
+  },
+  "SeveranceCosts1": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "SeveranceCosts",
+    "sign": -1
+  },
+  "RestructuringAndRelatedCostExpectedNumberOfPositionsEliminated": {
+    "statement": "",
+    "section": "",
+    "subsection": "",
+    "canonical": "",
+    "sign": ""
+  },
+  "ProceedsFromShortTermDebtMaturingInThreeMonthsOrLess": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "ProceedsFromShortTermDebtMaturingInThreeMonthsOrLess",
+    "sign": 1
+  },
+  "EquityMethodInvestments": {
+    "statement": "BalanceSheet",
+    "section": "Assets",
+    "subsection": "AssetsOther",
+    "canonical": "EquityMethodInvestments",
+    "sign": 1
+  },
+  "InterestExpenseNonoperating": {
+    "statement": "IncomeStatement",
+    "section": "OperatingExpenses",
+    "subsection": "OperatingExpenses",
+    "canonical": "InterestExpenseNonoperating",
+    "sign": -1
+  },
+  "DerivativeLiabilitiesCurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "CurrentLiabilities",
+    "canonical": "DerivativeLiabilities",
+    "sign": 1
+  },
+  "DerivativeLiabilitiesNoncurrent": {
+    "statement": "BalanceSheet",
+    "section": "Liabilities",
+    "subsection": "NonCurrentLiabilities",
+    "canonical": "DerivativeLiabilities",
+    "sign": 1
+  },
+  "CommonStockSharesIssued": {
+    "statement": "BalanceSheet",
+    "section": "Equity",
+    "subsection": "ShareholdersEquity",
+    "canonical": "CommonStockSharesIssued",
+    "sign": 1
+  },
+  "RepaymentsOfShortTermDebtMaturingInThreeMonthsOrLess": {
+    "statement": "CashFlowStatement",
+    "section": "FinancingActivities",
+    "subsection": "DebtAndEquityFinancing",
+    "canonical": "RepaymentsOfShortTermDebtMaturingInThreeMonthsOrLess",
+    "sign": -1
+  }
+}

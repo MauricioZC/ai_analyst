@@ -11,7 +11,7 @@ def main():
 #    cik = get_cik(stock, headers={"User-Agent": "marcos@gmail.com"})
 #    df, labels = facts_DF(cik, headers={"User-Agent": "marcos@gmail.com"})
 
-    print(data)
+    print(data["facts"])
 
 
 if __name__ == "__main__":
